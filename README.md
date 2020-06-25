@@ -1,8 +1,6 @@
 # 100_Days_of_ML
 
-#Abstract
-
-This is 100 days of Machine Learning challenge as instructed by @Siraj_Raval #learningbydoing
+This is 100 days of Machine Learning challenge as instructed by @llSourcell #learningbydoing
 
 # Motivation
 
@@ -17,4 +15,4 @@ The daily log to keep track on my progress.
  1. Today I got the overview of Machine Learning Algorithms with the Mind-maps and Cheat sheets
  2. Set up the environment(Anaconda.org) to complete this challenge and also completed choosing the courses I will follow.
 
- Resources - commit
+  Resources - overview
