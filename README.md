@@ -1,6 +1,6 @@
 # 100_Days_of_ML
 
-This is 100 days of Machine Learning challenge as instructed by @SirajRaval #learningbydoing
+This is 100 days of Machine Learning challenge as instructed by Siraj Raval(https://github.com/llSourcell/100_Days_of_ML_Code) #learningbydoing
 
 # Motivation
 
