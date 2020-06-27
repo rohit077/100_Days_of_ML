@@ -23,3 +23,10 @@ It's the daily log to keep track on my progress.
  2. Implemented Linear Regression without using popular Libraries and Frameworks on the 'bike_sharing_dataset'.
 
   Link to Progress - [Linear Regression with NumPy and Python](https://github.com/rohit077/100_Days_of_ML/tree/master/Linear_Regression)
+
+# Day 3 : June 27, 2020 | Logistic Regression
+
+ 1. Learnt the basic intuition of Logistic Regression and enrolled to the [guided project](https://www.coursera.org/projects/logistic-regression-numpy-python) on Logistic Logistic Regression.
+ 2. Implemented Logistic Regression using Python.
+
+ Link to Progress - 
