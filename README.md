@@ -19,8 +19,8 @@ It's the daily log to keep track on my progress.
 
 # Day 2 : June 26, 2020 | Linear Regression
 
- 1. Learnt the basics of Linear Regression and revisited the Machine Learning Course by Andrew Ng in Coursera. Alternative link - https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3&t=2218s
- 2. Implemented Linear Regression without using popular Libraries and Frameworks on the 'bike_sharing_dataset'.
+ 1. Learnt the basics of Linear Regression and revisited the Machine Learning Course by Andrew Ng in Coursera. Alternative free course - [Stanford YT](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3&t=2218s)
+ 2. Implemented Linear Regression without using popular Libraries and Frameworks on the 'bike_sharing_data.csv'.
 
   Link to Progress - [Linear Regression with NumPy and Python](https://github.com/rohit077/100_Days_of_ML/tree/master/Linear_Regression)
 
@@ -29,4 +29,11 @@ It's the daily log to keep track on my progress.
  1. Learnt the basic intuition of Logistic Regression and enrolled to the [guided project](https://www.coursera.org/projects/logistic-regression-numpy-python) on Logistic Logistic Regression.
  2. Implemented Logistic Regression using Python.
 
- Link to Progress - 
+ Link to Progress - [Logistic Regression with Numpy](https://github.com/rohit077/100_Days_of_ML/blob/master/Logistic_Regression/Logistic_Regression_with_NumPy_.py)
+
+# Day 4 : June 28, 2020 | Better Intuition of Regression
+
+  1. Continued with Regression and Coursera ML Course.
+  2. Tried Implementing Linear Regression with [Siraj Raval's tutorial](https://www.youtube.com/watch?v=XdM6ER7zTLk&t=1928s)
+
+  Link to Progress - [How to Do Linear Regression using Gradient Descent](https://github.com/llSourcell/linear_regression_live/blob/master/demo.py)
