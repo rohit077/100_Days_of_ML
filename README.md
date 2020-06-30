@@ -37,3 +37,16 @@ It's the daily log to keep track on my progress.
   2. Tried Implementing Linear Regression with [Siraj Raval's tutorial](https://www.youtube.com/watch?v=XdM6ER7zTLk&t=1928s)
 
   Link to Progress - [How to Do Linear Regression using Gradient Descent](https://github.com/llSourcell/linear_regression_live/blob/master/demo.py)
+
+# Day 5 : June 29, 2020 | Descending into ML
+
+ 1. Enrolled into a free course offered by Google - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) and completed upto [First steps with Tensorflow](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises).
+
+ Link to Progress - [First Steps with TF: Programming Exercises](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
+
+# Day 6: June 30, 2020 | Linear Regression with a Real Dataset
+
+ 1. Continued the ML crash curse by [google](https://developers.google.com/machine-learning/crash-course)
+ 2. Implemented Linear Regression with Real Dataset in [Google Colab](https://colab.research.google.com/)
+
+ Link to Progress - [Linear regression with tf.keras]()
