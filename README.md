@@ -49,4 +49,11 @@ It's the daily log to keep track on my progress.
  1. Continued the ML crash curse by [google](https://developers.google.com/machine-learning/crash-course)
  2. Implemented Linear Regression with Real Dataset in [Google Colab](https://colab.research.google.com/)
 
- Link to Progress - [Linear regression with tf.keras]()
+ Link to Progress - [Linear regression with tf.keras](https://github.com/rohit077/100_Days_of_ML/blob/master/Linear_Regression/Linear%20Regression%20with%20a%20Real%20Dataset.ipynb)
+
+# Day 7 : July 1, 2020 | COVID19 Data Analysis Using Python
+
+ 1. Today I analyzed Covid-19 Dataset using python on real dataset.
+ 2. I took the data and completed the project with help of [Rhyme Project Network](https://www.coursera.org/learn/covid19-data-analysis-using-python/home/welcome)
+
+ Link to Progress - [COVID-19 Data Analysis](https://github.com/rohit077/100_Days_of_ML/blob/master/COVID-19 Data Analysis/)
