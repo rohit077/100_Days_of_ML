@@ -44,7 +44,7 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [First Steps with TF: Programming Exercises](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
 
-# Day 6: June 30, 2020 | Linear Regression with a Real Dataset
+# Day 6: June 30, 2020 | Regression with a Real Dataset
 
  1. Continued the ML crash curse by [google](https://developers.google.com/machine-learning/crash-course)
  2. Implemented Linear Regression with Real Dataset in [Google Colab](https://colab.research.google.com/)
@@ -56,4 +56,4 @@ It's the daily log to keep track on my progress.
  1. Today I analyzed Covid-19 Dataset using python on real dataset.
  2. I took the data and completed the project with help of [Rhyme Project Network](https://www.coursera.org/learn/covid19-data-analysis-using-python/home/welcome)
 
- Link to Progress - [COVID-19 Data Analysis](https://github.com/rohit077/100_Days_of_ML/blob/master/COVID-19 Data Analysis/)
+ Link to Progress - [COVID-19 Data Analysis](https://github.com/rohit077/100_Days_of_ML/blob/master/COVID-19_Data Analysis/)
