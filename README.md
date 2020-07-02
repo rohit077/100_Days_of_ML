@@ -57,3 +57,10 @@ It's the daily log to keep track on my progress.
  2. I took the data and completed the project with help of [Rhyme Project Network](https://www.coursera.org/learn/covid19-data-analysis-using-python/home/welcome)
 
  Link to Progress - [COVID-19 Data Analysis](https://github.com/rohit077/100_Days_of_ML/blob/master/COVID-19%20Data%20Analysis/COVID19%20Data%20Analysis%20Using%20Python.py)
+
+# Day 8 : July 2, 2020 | Machine Learning Crash Coursera
+
+ 1. Completed the ML course upto [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
+ 2. Enrolled into Project centric course - [Predicting House Prices with Regression using TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression/home/welcome)
+
+ Link to Progress - [Housing Price Prediction](commit)
