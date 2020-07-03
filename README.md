@@ -51,16 +51,22 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [Linear regression with tf.keras](https://github.com/rohit077/100_Days_of_ML/blob/master/Linear_Regression/Linear%20Regression%20with%20a%20Real%20Dataset.ipynb)
 
-# Day 7 : July 1, 2020 | COVID19 Data Analysis Using Python
+# Day 7 : July 1, 2020 | COVID19 Data Analysis
 
  1. Today I analyzed Covid-19 Dataset using python on real dataset.
  2. I took the data and completed the project with help of [Rhyme Project Network](https://www.coursera.org/learn/covid19-data-analysis-using-python/home/welcome)
 
  Link to Progress - [COVID-19 Data Analysis](https://github.com/rohit077/100_Days_of_ML/blob/master/COVID-19%20Data%20Analysis/COVID19%20Data%20Analysis%20Using%20Python.py)
 
-# Day 8 : July 2, 2020 | Machine Learning Crash Coursera
+# Day 8 : July 2, 2020 | Machine Learning Crash Course
 
  1. Completed the ML course upto [Validation Set](https://developers.google.com/machine-learning/crash-course/validation/check-your-intuition)
  2. Enrolled into Project centric course - [Predicting House Prices with Regression using TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression/home/welcome)
 
  Link to Progress - [Housing Price Prediction](commit)
+
+# Day 9 : July 3, 2020 | Predicting House Prices with Regression
+
+ 1. Implemented Housing Price Prediction with [Boston_housing.csv](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices?select=housing.csv#Getting-Started) data.
+
+ Link to Progress - Housing Price Prediction
