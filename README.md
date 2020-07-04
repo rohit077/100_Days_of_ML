@@ -69,4 +69,11 @@ It's the daily log to keep track on my progress.
 
  1. Implemented Housing Price Prediction with [Boston_housing.csv](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices?select=housing.csv#Getting-Started) data.
 
- Link to Progress - Housing Price Prediction
+ Link to Progress - [Housing Price Prediction]()
+
+# Day 10 : July 4, 2020 | Predicting Profit of Food Truck with Regression
+
+ 1. Predicted Profit of Food Truck with Regression with the previous data given by assignment page.
+ 2. I Implemented Linear regression with single variable from scratch.
+
+ Link to Progress - [Food Truck Profit Prediction]()
