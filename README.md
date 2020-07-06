@@ -69,11 +69,24 @@ It's the daily log to keep track on my progress.
 
  1. Implemented Housing Price Prediction with [Boston_housing.csv](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices?select=housing.csv#Getting-Started) data.
 
- Link to Progress - [Housing Price Prediction]()
+ Link to Progress - [Housing Price Prediction](https://github.com/rohit077/100_Days_of_ML/blob/master/Predicting%20Housing%20Prices/Predicting%20House%20Prices%20with%20Regression.ipynb)
 
-# Day 10 : July 4, 2020 | Predicting Profit of Food Truck with Regression
+# Day 10 : July 4, 2020 | Predicting Profit of Food Truck
 
  1. Predicted Profit of Food Truck with Regression with the previous data given by assignment page.
  2. I Implemented Linear regression with single variable from scratch.
 
- Link to Progress - [Food Truck Profit Prediction]()
+ Link to Progress - [Food Truck Profit Prediction](https://github.com/rohit077/100_Days_of_ML/blob/master/Predicting%20Housing%20Prices/Predicting%20House%20Prices%20with%20Regression.ipynb)
+
+# Day 11 : July 5, 2020 | CS50’s Introduction to AI with Python
+
+ 1. Enrolled into the CS50's AI course(audit) to freshen up with [HarvardX: CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
+ 2. Explored with the Source code of the Maze from first lecture, the code is provided in the link below.
+
+ Link to Progress - [Maze](d)
+
+# Day 12 : July 6, 2020 | Project 0
+
+ 1. Completed the quiz and the project part after the first lecture.
+
+ Link to Progress - [projects/2020/x/degrees](0)
