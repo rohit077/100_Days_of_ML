@@ -83,10 +83,10 @@ It's the daily log to keep track on my progress.
  1. Enrolled into the CS50's AI course(audit) to freshen up with [HarvardX: CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
  2. Explored with the Source code of the Maze from first lecture, the code is provided in the link below.
 
- Link to Progress - [Maze](d)
+ Link to Progress - [Maze](https://github.com/rohit077/100_Days_of_ML/blob/master/HarvardX%20CS50AI/maze.py)
 
 # Day 12 : July 6, 2020 | Project 0
 
  1. Completed the quiz and the project part after the first lecture.
 
- Link to Progress - [projects/2020/x/degrees](0)
+ Link to Progress - [projects/2020/x/degrees](https://github.com/rohit077/100_Days_of_ML/tree/master/HarvardX%20CS50AI)
