@@ -90,3 +90,10 @@ It's the daily log to keep track on my progress.
  1. Completed the quiz and the project part after the first lecture.
 
  Link to Progress - [projects/2020/x/degrees](https://github.com/rohit077/100_Days_of_ML/tree/master/HarvardX%20CS50AI)
+
+# Day 13 : July 7, 2020 | Flight Fare Prediction
+
+ 1. Today, I Implemented Flight Price Prediction after watching the live stream by [Krish Naik](https://www.youtube.com/watch?v=6vqGeigbwjc&t=2447s)
+ 2. Learnt more about the data pre-processing from YouTube.
+
+ Link to Progress - [Flight_price](https://github.com/rohit077/100_Days_of_ML/blob/master/Flight%20Fare%20Prediction.ipynb)
