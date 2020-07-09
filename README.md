@@ -97,3 +97,11 @@ It's the daily log to keep track on my progress.
  2. Learnt more about the data pre-processing from YouTube.
 
  Link to Progress - [Flight_price](https://github.com/rohit077/100_Days_of_ML/blob/master/Flight%20Fare%20Prediction.ipynb)
+
+# Day 14 : July 8, 2020 | Baseline: Data, ML
+
+ 1. Completed the Baseline: Data, ML, AI Quest upto [DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog)
+ 2. Continued with [CS50:AI](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
+ 
+ Link to Progress - [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34)
+ 
