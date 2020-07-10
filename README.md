@@ -100,8 +100,20 @@ It's the daily log to keep track on my progress.
 
 # Day 14 : July 8, 2020 | Baseline: Data, ML
 
- 1. Completed the Baseline: Data, ML, AI Quest upto [DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog)
- 2. Continued with [CS50:AI](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
+ 1. Completed the Baseline: Data, ML, AI Quest upto [DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog).
+ 2. Continued with [CS50:AI](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/).
  
  Link to Progress - [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34)
  
+# Day 15 : July 9, 2020 | RandomForest classifier, Datasets and Decision Trees
+
+ 1. Learned How to use Scikit-learn implementing this [Project: Predict Employee Turnover with scikit-learn](https://www.coursera.org/learn/employee-turnover-scikit-learn/home/week/1).
+ 
+ Link to Progress - [Predicting Employee Turnover with scikit-learn](https://www.coursera.org/learn/employee-turnover-scikit-learn/resources/c3Evg)
+ 
+# Day 16 : July 10, 2020 | Qwiklab ML Quest
+
+ 1. Finished the following quest - [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://www.qwiklabs.com/quests/117).
+ 2. Learned a lot new things and how to implemented them in gcp, it's a great hand's on learning platform.
+ 
+ Link to Progress - [Data, ML, and AI Tasks in Google Cloud](https://www.qwiklabs.com/public_profiles/13780136-a403-4d9a-8762-41935e83695f)
