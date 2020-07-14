@@ -133,4 +133,11 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [Advance House Price Prediction](https://github.com/krishnaik06/Kaggle-Competitions).
 
- 
+# Day 19 : July 13, 2020 | Predicting Sales with Advertising Dataset
+
+ 1. Implemented Multiple [Linear Regression with scikit-learn](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression/home/welcome) in Coursera.
+ 2. Coursera Network platform is a great place to learn by praticing real-time with tutorials & datasets.
+
+ Link to Progress - [Predicting-sales-with-multiple-linear-regression](.)
+
+# Day 20 : July 14, 2020 | 
