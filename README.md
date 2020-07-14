@@ -139,4 +139,9 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [Predicting-sales-with-multiple-linear-regression](https://github.com/rohit077/100_Days_of_ML/tree/master/Linear%20Regression/Multiple%20Linear%20Regression).
 
-# Day 20 : July 14, 2020 |
+# Day 20 : July 14, 2020 | House Prices: Advanced Regression Techniques
+
+ 1. Completed upto data preprocessing with @krishnaik06.
+ 2. Kaggle Competition - [House Prices: Advanced Regression Techniques](https://www.youtube.com/watch?v=vtm35gVP8JU&t=412s).
+
+ Link to Progress - [Advance House Price Prediction](https://www.kaggle.com/rohitroychowdhury0/kernel54800cfd13).
