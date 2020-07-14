@@ -100,7 +100,6 @@ It's the daily log to keep track on my progress.
 
 # Day 14 : July 8, 2020 | Baseline: Data, ML
 
-<<<<<<< HEAD
  1. Completed the Baseline: Data, ML, AI Quest upto [DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog)
  2. Continued with [CS50:AI](https://courses.edx.org/courses/course-v1:HarvardX+CS50AI+1T2020/course/)
 
@@ -124,7 +123,7 @@ It's the daily log to keep track on my progress.
  1. Get my hand dirty with the [Titanic Survival Data](https://www.kaggle.com/c/titanic/data).
  2. Submitted my first [kaggle submission](https://www.kaggle.com/c/titanic/submissions).
 
- Link to Progress - [Titanic: Machine Learning from Disaster]().
+ Link to Progress - [Titanic: Machine Learning from Disaster](https://github.com/rohit077/100_Days_of_ML/blob/master/Kaggle/kernel36239a5421.ipynb).
 
 # Day 18 : July 12, 2020 | House Prices: Advanced Regression Techniques
 
@@ -138,6 +137,6 @@ It's the daily log to keep track on my progress.
  1. Implemented Multiple [Linear Regression with scikit-learn](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression/home/welcome) in Coursera.
  2. Coursera Network platform is a great place to learn by praticing real-time with tutorials & datasets.
 
- Link to Progress - [Predicting-sales-with-multiple-linear-regression](.)
+ Link to Progress - [Predicting-sales-with-multiple-linear-regression](https://github.com/rohit077/100_Days_of_ML/tree/master/Linear%20Regression/Multiple%20Linear%20Regression).
 
-# Day 20 : July 14, 2020 | 
+# Day 20 : July 14, 2020 |
