@@ -123,7 +123,7 @@ It's the daily log to keep track on my progress.
  1. Get my hand dirty with the [Titanic Survival Data](https://www.kaggle.com/c/titanic/data).
  2. Submitted my first [kaggle submission](https://www.kaggle.com/c/titanic/submissions).
 
- Link to Progress - [Titanic: Machine Learning from Disaster](https://github.com/rohit077/100_Days_of_ML/blob/master/Kaggle/kernel36239a5421.ipynb).
+ Link to Progress - [Titanic: Machine Learning from Disaster](https://github.com/rohit077/100_Days_of_ML/blob/master/Titanic%20Survival%20Prediction/kernel36239a5421.ipynb).
 
 # Day 18 : July 12, 2020 | House Prices: Advanced Regression Techniques
 
@@ -151,15 +151,13 @@ It's the daily log to keep track on my progress.
  1. Submitted yesterday's progress along with deployment.
  2. Edited the model with hyperparameter tuning.
 
- Link to Progress - [kaggle submission: Housing Prices Advanced Regression]()
+ Link to Progress - [kaggle submission: Housing Prices Advanced Regression](https://github.com/rohit077/100_Days_of_ML/blob/master/Predicting%20Housing%20Prices/kernel54800cfd13.ipynb).
 
 # Day 22 : July 16, 2020 | Car Price Prediction from CarDekho Dataset
 
  1. Predicting Car Prices from [Vehicle dataset from cardekho](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) with [@krishnaik06](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig).
  2. Completed upto model deployment part, will update the front-end by tommorow.
 
- Link to Progress - []()
+ Link to Progress - [Car Price Prediction](https://github.com/rohit077/100_Days_of_ML/tree/master/Car%20Price%20Prediction)
 
 # Day 23 : July 17, 2020 | Machine Learning Feature Selection
-
- 
