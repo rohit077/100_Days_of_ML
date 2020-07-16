@@ -141,7 +141,25 @@ It's the daily log to keep track on my progress.
 
 # Day 20 : July 14, 2020 | House Prices: Advanced Regression Techniques
 
- 1. Completed upto data preprocessing with @krishnaik06.
+ 1. Completed upto data preprocessing with [krishnaik06](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig).
  2. Kaggle Competition - [House Prices: Advanced Regression Techniques](https://www.youtube.com/watch?v=vtm35gVP8JU&t=412s).
 
  Link to Progress - [Advance House Price Prediction](https://www.kaggle.com/rohitroychowdhury0/kernel54800cfd13).
+
+# Day 21 : July 15, 2020 | Kaggle Competition
+
+ 1. Submitted yesterday's progress along with deployment.
+ 2. Edited the model with hyperparameter tuning.
+
+ Link to Progress - [kaggle submission: Housing Prices Advanced Regression]()
+
+# Day 22 : July 16, 2020 | Car Price Prediction from CarDekho Dataset
+
+ 1. Predicting Car Prices from [Vehicle dataset from cardekho](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) with [@krishnaik06](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig).
+ 2. Completed upto model deployment part, will update the front-end by tommorow.
+
+ Link to Progress - []()
+
+# Day 23 : July 17, 2020 | Machine Learning Feature Selection
+
+ 
