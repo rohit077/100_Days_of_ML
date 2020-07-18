@@ -161,3 +161,14 @@ It's the daily log to keep track on my progress.
  Link to Progress - [Car Price Prediction](https://github.com/rohit077/100_Days_of_ML/tree/master/Car%20Price%20Prediction)
 
 # Day 23 : July 17, 2020 | Machine Learning Feature Selection
+
+ 1. Learnt more of Feature Selection in depth from [Coursera Project Network](https://www.coursera.org/learn/machine-learning-feature-selection-in-python/ungradedLti/BDxG6/machine-learning-feature-selection-in-python).
+
+ Link to Progress - [](.).
+
+# Day 24 : July 18, 2020 | fast.ai
+
+ 1. Enrolled into the most recommended open sourced course and completed upto Random Forest.
+ 2. RandomForest is widely applicable ml model, You can find it here: [lec. 1](http://course18.fast.ai/lessonsml1/lesson1.html).
+
+ Link to Progress - []()
