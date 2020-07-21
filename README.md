@@ -168,7 +168,28 @@ It's the daily log to keep track on my progress.
 
 # Day 24 : July 18, 2020 | fast.ai
 
- 1. Enrolled into the most recommended open sourced course and completed upto Random Forest.
- 2. RandomForest is widely applicable ml model, You can find it here: [lec. 1](http://course18.fast.ai/lessonsml1/lesson1.html).
+ 1. Enrolled into the most recommended open sourced course and completed up-to Random Forest.
+ 2. Random Forest is widely applicable ml model, You can find it here: [lec. 1](http://course18.fast.ai/lessonsml1/lesson1.html).
 
  Link to Progress - []()
+
+# Day 25 : July 19, 2020 | First ML project
+
+ 1. I choose to complete at least four projects by the end of 100_Days_of_ML_Code by all alternative 25'th day.
+ 2. As I previously worked on some Housing Price Predictions, starting with a similar data - [Delhi Real-Estate Prices by MagicBricks.com](https://www.kaggle.com/neelkamal692/delhi-house-price-prediction).
+
+ Link to Progress - [Delhi Housing Price Prediction](https://github.com/rohit077/100_Days_of_ML/blob/master/Delhi%20Housing%20Price%20Prediction/Delhi%20Housing%20Price%20Prediction%20-%20Magicbricks.ipynb).
+
+# Day 26 : July 20, 2020 | Deployment with Heroku
+
+ 1. Deployed the machine learning model.pkl with [Heroku](https://dashboard.heroku.com/).
+ 2. Fixed some issues and improved the accuracy a little bit.
+
+ Link to Progress - [Delhi Real-estate Price Prediction](https://real-estate-price.herokuapp.com/).
+
+# Day 27 : July 21, 2020 | Improving Front-End
+
+ 1. Learnt basic html and css as I've no prior experience with Front-end.
+ 2. CS50's web Programming course is a great resource to learn.
+
+ Link to Progress - [CS50's Web Development](https://cs50.harvard.edu/web/2020/).
