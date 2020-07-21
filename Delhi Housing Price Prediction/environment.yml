@@ -1,0 +1,5 @@
+name: default
+channels:
+  - defaults
+prefix: C:\ProgramData\Anaconda3\envs\default
+
