@@ -193,3 +193,17 @@ It's the daily log to keep track on my progress.
  2. CS50's web Programming course is a great resource to learn.
 
  Link to Progress - [CS50's Web Development](https://cs50.harvard.edu/web/2020/).
+
+# Day 28 : July 22, 2020 | Invoking Machine Learning API's
+
+ 1. Enrolled into Google Machine Learning Specialization Course and completed upto modeule 3.
+ 2. Exploring Rest API's from Qwicklab.
+
+ Link to Progress - [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning).
+
+# Day 29 : July 23, 2020 | Hyperparameter Tuning with Diabetes dataset
+
+ 1. Finished yesterday's course - How Google Does Machine Learning.
+ 2. Joined the live class by Krish Naik on hyperparameter-tuning with diabetes data.
+
+ Link to Progress - 
