@@ -206,4 +206,12 @@ It's the daily log to keep track on my progress.
  1. Finished yesterday's course - How Google Does Machine Learning.
  2. Joined the live class by Krish Naik on hyperparameter-tuning with diabetes data.
 
- Link to Progress - 
+ Link to Progress - [Hyper Parameter Tuning](https://github.com/rohit077/100_Days_of_ML/tree/master/Hyper%20Parameter%20Tuning).
+
+# Day 30  : July 24, 2020 | Launching into Machine Learning
+
+ 1. Completed upto Decision Trees and re-visited archived courses to note-making for future self XD.
+
+ Link to Progress - Check Resources Column
+
+# Day 31 : July 25, 2020 |
