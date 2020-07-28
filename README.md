@@ -214,4 +214,26 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - Check Resources Column
 
-# Day 31 : July 25, 2020 |
+# Day 31 : July 25, 2020 | CS229: Stanford
+
+ 1. Taking notes of CS229: Machine Learning, this is great alternative of Coursera's Andrew Ng ml course.
+ 2. Continuing with the epic Fast.ai course and finished [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) course.
+
+ Link to Progress - [CS229: Machine Learning](http://cs229.stanford.edu/).
+
+# Day 32 : July 26, 2020 | Pima Indians Diabetes Database
+
+ 1. Prediction of Diabetes Dataset on kaggle done with RandomForestRegressor.
+ 2. Follow Krish Naik's Live project videos to learn more - [Diabetes Prediction using Machine Learning](https://www.youtube.com/watch?v=HTN6rccMu1k&t=406s)
+
+ Link to Progress - []()
+
+# Day 33 : July 27, 2020 | Problem Set 1
+
+ 1. Submitted the first Problem Set of [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
+
+ Link to Progress - []()
+
+# Day 34 : July 28,2020 | TensorFlow
+
+ 1. 
