@@ -236,4 +236,7 @@ It's the daily log to keep track on my progress.
 
 # Day 34 : July 28,2020 | TensorFlow
 
- 1. 
+ 1. Started Intro to TensorFlow from Qwicklab and completed first two lab with basic operations.
+ 2.
+
+ Link to Progress - []()
