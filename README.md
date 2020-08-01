@@ -234,9 +234,31 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - []()
 
-# Day 34 : July 28,2020 | TensorFlow
+# Day 34 : July 28, 2020 | TensorFlow
 
  1. Started Intro to TensorFlow from Qwicklab and completed first two lab with basic operations.
- 2.
+ 2. Brushing up python with NumPy and Panda.
 
  Link to Progress - []()
+
+# Day 35 : July 29, 2020 | Intro to TensorFlow
+
+ 1. Continuing the GCP course on TensorFlow, the course is well structured but beginner friendly.
+
+ Link to Progress - []().
+
+# Day 36 : July 30, 2020 | Cab Price Prediction
+
+ 1. Predicted the cab price data with Linear Regression and DNN, got rmse < 10.
+ 2. This one is the part of the course assignment, the notebook is available in the following link.
+
+ Link to Progress - [training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/d_traineval.ipynb).
+
+# Day 37 : July 31, 2020 | Deployment using Cloud AI platform
+
+ 1. Scaling up cab price model.py file using Cloud AI Platform on GCP.
+ 2. This is also part course assignment, check this [repo](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_ai_platform.ipynb).
+
+ Link to Progress - [Scaling up ML using Cloud AI Platform](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_ai_platform.ipynb)
+
+# Day 38 : August 1, 2020 | 
