@@ -259,6 +259,219 @@ It's the daily log to keep track on my progress.
  1. Scaling up cab price model.py file using Cloud AI Platform on GCP.
  2. This is also part course assignment, check this [repo](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_ai_platform.ipynb).
 
- Link to Progress - [Scaling up ML using Cloud AI Platform](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_ai_platform.ipynb)
+ Link to Progress - [Scaling up ML using Cloud AI Platform](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_ai_platform.ipynb).
 
-# Day 38 : August 1, 2020 | 
+# Day 38 : August 1, 2020 | Implementing Decision Tree
+
+ 1. A decision tree is a flowchart-like structure in which each internal node represents a "test" on an attribute, each branch represents the outcome of the test, and each leaf node represents a class label.
+
+ Link to Progress - [Classification Trees in Python, From Start To Finish](https://www.coursera.org/learn/classification-trees-in-python/home/welcome).
+
+# Day 39 : August 2, 2020 | Moving Into DL
+
+ 1. Started learning Deep Learning with the MIT Deep Learning Playlist available on YouTube.
+ 2. Completed the first task of assignment - 1, [Deep learning basics](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=2&ab_channel=LexFridman).
+
+ Link to Progress - [Boston Housing Price Prediction with FFNN](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb).
+
+# Day 40 : August 3, 2020 | Planar data classification with a hidden layer
+
+ 1. Continuing the epic Deep Learning course thought by Andrew Ng.
+ 2. Finished the 3'rd week's assignment on Planar data classification with a hidden layer.
+
+ Link to Progress - [Planar data classification with a hidden layer]().
+
+# Day 41 : August 4, 2020 | Neural Network from Scratch
+
+ 1. 1. In week 4 of deeplearning.ai course, built a Neural Network from scratch.
+
+ Link to Progress - [Building Deep Neural Network](https://www.coursera.org/learn/neural-networks-deep-learning/notebook/lSYZM/building-your-deep-neural-network-step-by-step).
+
+# Day 42 : August 5, 2020 | Intro to TensorFlow
+
+ 1. Completed the first assignment of MIT6.S191, thaught by [Alexander Amini](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2&t=242s&ab_channel=AlexanderAmini).
+ 2. The part - 1 describes basic operations in TensorFlow and the aumated differentiation.
+
+ Link to Progress - [Intro to TensorFlow](https://github.com/aamini/introtodeeplearning/blob/master/lab1/solutions/Part1_TensorFlow_Solution.ipynb).
+
+# Day 43 : August 6, 2020 | Recognition of Digits using CNN
+
+ 1. Completed the second part of assignment-1 of Lex Fridman DL [Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf).
+ 2. It build the overview of how hand written digits can be recognised using CNN.
+
+ Link to Progress - [Classification of MNIST Dreams with Convolutional Neural Networks](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb).
+
+# Day 44 : August 7, 2020 |
+
+
+
+ Link to Progress -
+
+# Day 45 : August 8, 2020 |
+
+
+
+
+# Day 46 : August 9, 2020 |
+
+
+
+
+
+# Day 47 : August 10, 2020 |
+
+
+
+
+# Day 48 : August 11, 2020 |
+
+
+
+
+# Day 49 : August 12, 2020 |
+
+
+
+
+
+# Day 50 : August 13, 2020 |
+
+
+
+
+# Day 51 : August 14, 2020 |
+
+
+
+
+# Day 52 : August 15, 2020 |
+
+
+
+
+# Day 53 : August 16, 2020 |
+
+
+
+
+# Day 54 : August 17, 2020 |
+
+
+
+
+# Day 55 : August 18, 2020 |
+
+
+
+# Day 56 : August 19, 2020 |
+
+
+
+# Day 57 : August 20, 2020 |
+
+
+
+# Day 58 : August 21, 2020 |
+
+
+
+# Day 59 : August 22, 2020 |
+
+
+
+# Day 60 : August 23, 2020 |
+
+
+
+# Day 61 : August 24, 2020 |
+
+
+
+# Day 62 : August 25, 2020 |
+
+
+
+# Day 63 : August 26, 2020 |
+
+
+
+# Day 64 : August 27, 2020 |
+
+
+
+# Day 65 : August 28, 2020 |
+
+
+
+# Day 66 : August 29, 2020 |
+
+
+
+# Day 67 : August 30, 2020 |
+
+
+
+# Day 68 : August 31, 2020 |
+
+
+
+# Day 69 : September 1, 2020 | Image Compression with K-Means Clustering
+
+ 1. Today I learnt k-means clustering and applied it to compress images.
+ 2. This Coursera Project is most useful so far.
+
+ Link to Progress -
+
+# Day 70 : September 2, 2020 | What-If Tool with Image Recognition Models
+
+ 1. Detecting Smiles in Images with What-if Tool in qwiklabs.
+
+ Link to Progress - [What-If Tool with Image Recognition Models](https://www.qwiklabs.com/focuses/10904?parent=catalog).
+
+# Day 71 : September 3, 2020 | Predicting Heart Disease with Decision Trees
+
+ 1.  Build a Classification Tree, which uses continuous and categorical data from the UCI Machine Learning Repository to predict whether or not a patient has heart disease.
+
+ Link to Progress  [Classification Trees in Python, From Start To Finish](https://www.coursera.org/learn/classification-trees-in-python/home/welcome).
+
+# Day 72 : September 4, 2020 | Implementing Convolution Layer
+
+ 1. So, this is the first assignment of CNN course by deeplearning.ai, the lectures are very useful, also available on their YouTube channel.
+ 2. Implemented single Convolution layer from scratch.
+
+ Link to Progress - [Convolutional Model: step by step](https://www.coursera.org/learn/convolutional-neural-networks/notebook/7XDi8/convolutional-model-step-by-step).
+
+# Day 73 : September 5, 2020 | Convolutional model Application
+
+ 1. Completed the second assignment of CNN (deeplearning.ai).
+ 2.
+
+ Link to Progress - [Convolutional model: application](https://www.coursera.org/learn/convolutional-neural-networks/programming/bwbJV/convolutional-model-application).
+
+# Day 74 : September 6, 2020 |
+
+ Link to Progress -
+
+# Day 75 : September 7, 2020 |
+
+ Link to Progress -
+
+# Day 76 : September 7, 2020 |
+
+ Link to Progress -
+
+# Day 77 : September 8, 2020 |
+
+ Link to Progress -
+
+# Day 78 : September 9, 2020 |
+
+ Link to Progress -
+
+# Day 79 : September 10, 2020 |
+
+ Link to Progress -
+
+# Day 80 : September 11, 2020 |
+
+ Link to Progress -
