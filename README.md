@@ -399,21 +399,31 @@ It's the daily log to keep track on my progress.
 
 
 
-# Day 65 : August 28, 2020 |
+# Day 65 : August 28, 2020 | Transfer Learning
 
+ 1.
 
+ Link to Progress -
 
-# Day 66 : August 29, 2020 |
+# Day 66 : August 29, 2020 | Using Custom Estimator in Time-Series
 
+ 1.
 
+ Link to Progress -
 
-# Day 67 : August 30, 2020 |
+# Day 67 : August 30, 2020 | Auto-encoders
 
+ 1. Reducing image noises with auto-encoders in TensorFlow.
+ 2. This [rhyme interface](https://www.coursera.org/learn/image-noise-reduction-auto-encoders/home/welcome) developed the understanding of auto-encoders.
 
+ Link to Progress -
 
-# Day 68 : August 31, 2020 |
+# Day 68 : August 31, 2020 | Traffic Sign Recognition with Keras
 
+ 1. Converted images to grayscale, performed normalization, then applied CNN to it.
+ 2. This [rhyme course](https://www.coursera.org/learn/traffic-sign-classification-deep-learning/home/welcome) is one of the most useful as it's a great project of computer vision.
 
+ Link to Progress -
 
 # Day 69 : September 1, 2020 | Image Compression with K-Means Clustering
 
@@ -448,30 +458,47 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [Convolutional model: application](https://www.coursera.org/learn/convolutional-neural-networks/programming/bwbJV/convolutional-model-application).
 
-# Day 74 : September 6, 2020 |
+# Day 74 : September 6, 2020 | Deeplearning for Coders
+
+ 1. Started the epic Fast.ai course-v4 - [Deeplearning For Coders](https://youtu.be/_QUEXsHfsA0).
+ 2. I used google colab to follow the course, check the documentation if faced any error in setup.
 
  Link to Progress -
 
-# Day 75 : September 7, 2020 |
+# Day 75 : September 7, 2020 | Tomato Disease
+
+ 1. Got 84% accuracy on predicting Tomato leaf diseases.
+ 2. The tutorial is avaible on [here](https://www.youtube.com/watch?v=chQNuV9B-Rw&t=12s) if you wish to follow along.
 
  Link to Progress -
 
-# Day 76 : September 7, 2020 |
+# Day 76 : September 8, 2020 | Keras
+
+ 1. Predicted signs with Resnet50 in Keras, it's the optional assignment of deeplearning.ai cnn course.
+ 2. check out the repo to follow along with the Keras tutorial.
 
  Link to Progress -
 
-# Day 77 : September 8, 2020 |
+# Day 77 : September 9, 2020 | Object Detection with YOLO
+
+ 1. Continuing with previous day, completed week 3 assignment, detecting cars with YOLO algorithm.
 
  Link to Progress -
 
-# Day 78 : September 9, 2020 |
+# Day 78 : September 10, 2020 | Face Recognition
+
+ 1. Implemented face verification and recognition with Inception model.
+ 2. Though it's the second part of the week 4, completed it as the lecture part of the Neural style transfer isn't completed.
 
  Link to Progress -
 
-# Day 79 : September 10, 2020 |
+# Day 79 : September 11, 2020 | Art Generation with AI
+
+ 1. Finished CNN course of deeplearning.ai with the final assignment. The assignments are great for the future projects as well.
+ 2.
 
  Link to Progress -
 
-# Day 80 : September 11, 2020 |
+# Day 80 : September 12, 2020 |
 
  Link to Progress -
