@@ -499,6 +499,123 @@ It's the daily log to keep track on my progress.
 
  Link to Progress -
 
-# Day 80 : September 12, 2020 |
+# Day 80 : September 12, 2020 | Face Detection
+
+ 1. Build a face detector for my squad with small dataset, thanks to augmentation.
+ 2.
 
  Link to Progress -
+
+# Day 81 : September 13, 2020 | Facial Recognition with SVM
+
+ 1. Get hand's on the rhyme interface to build a facial recognition system with SVM.
+
+ Link to Progress -
+
+# Day 82 : September 14, 2020 | LSTM
+
+ 1. Build a RNN from scratch as the week 1 programming assignment of deeplearning.ai final course.
+
+ Link to Progress -
+
+# Day 83 : September 15, 2020 | NLP
+
+ 1. Implemented NLP to make a Shakesphere Model using Recurrent Neural Network.
+
+ Link to Progress -
+
+# Day 84 : September 16, 2020 | Improvising Jazz with LSTM
+
+ 1. This is the week 2 Programming assignment of Sequence model, created a jazz music with LSTM.
+
+  Link to Progress -
+
+# Day 85 : September 17, 2020 | Flower Classification
+
+ 1. Classiflying flowers with Inception V3.
+ 2.
+
+ Link to Progress -
+
+# Day 86 : September 18, 2020 | Autoencoders
+
+ 1. Sharpening Images with Autoencoders.
+ 2.
+
+  Link to Progress -
+
+# Day 87 : September 19, 2020 | Making Emojis with NLP
+
+ 1. Completed week 2 assignment of the deeplearning.ai sequence model course.
+ 2.
+
+ Link to Progress -
+
+# Day 88 : September 20, 2020 | Sentiment Analysis with IMDB
+
+ 1. Analysing sentiments of movie reviews of IMDB dataset.
+ 2.
+
+ Link to Progress -
+
+# Day 89 : September 21, 2020 | Fake News Detection
+
+ 1. Detecting fake news with NLP.
+ 2.
+
+ Link to Progress -
+
+# Day 90 : September 22, 2020 |
+
+
+  Link to Progress -
+
+# Day 91 : September 23, 2020 |
+
+
+ Link to Progress -
+
+# Day 92 : September 24, 2020 |
+
+
+  Link to Progress -
+
+# Day 93 : September  25, 2020 |
+
+
+ Link to Progress -
+
+# Day 94 : September 26, 2020 |
+
+
+     Link to Progress -
+
+# Day 95 : September 27, 2020 |
+
+
+      Link to Progress -
+
+# Day 96 : September 28, 2020 |
+
+
+       Link to Progress -
+
+# Day 97 : September 29, 2020 |
+
+
+        Link to Progress -
+
+# Day 98 : September 30, 2020 |
+
+
+         Link to Progress -
+
+# Day 99 : October 1, 2020 |
+
+
+          Link to Progress -
+
+# Day 100 : October 2, 2020 |
+
+
+  Link to Progress -
