@@ -305,109 +305,135 @@ It's the daily log to keep track on my progress.
 
 
 
- Link to Progress -
+ Link to Progress - []()
 
 # Day 45 : August 8, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 46 : August 9, 2020 |
 
 
 
 
+ Link to Progress - []()
 
 # Day 47 : August 10, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 48 : August 11, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 49 : August 12, 2020 |
 
 
 
 
+ Link to Progress - []()
 
 # Day 50 : August 13, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 51 : August 14, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 52 : August 15, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 53 : August 16, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 54 : August 17, 2020 |
 
 
 
+ Link to Progress - []()
 
 # Day 55 : August 18, 2020 |
 
 
+ Link to Progress - []()
 
 # Day 56 : August 19, 2020 |
 
 
+ Link to Progress - []()
 
 # Day 57 : August 20, 2020 |
 
 
+ Link to Progress - []()
 
 # Day 58 : August 21, 2020 |
 
 
+ Link to Progress - []()
 
 # Day 59 : August 22, 2020 |
 
 
+ Link to Progress - []()
 
-# Day 60 : August 23, 2020 |
-
-
-
-# Day 61 : August 24, 2020 |
+# Day 60 : August 23, 2020 | 
 
 
+ Link to Progress - []()
 
-# Day 62 : August 25, 2020 |
+# Day 61 : August 24, 2020 | Hand-Tuning
 
+ 1. Improved model accuracy by hand-tuning hyperparameters in qwiklabs.
 
+ Link to Progress - []()
 
-# Day 63 : August 26, 2020 |
+# Day 62 : August 25, 2020 | Hyperparameter Tuning
 
+ 1. Hyperparameter tuning on housing prices dataset on gcloud.
 
+ Link to Progress - []()
 
-# Day 64 : August 27, 2020 |
+# Day 63 : August 26, 2020 | Neural Network
 
+ 1. Finished the qwiklab quest Using Neural Network to Build AI Model.
+ 2.
 
+ Link to Progress - []()
+
+# Day 64 : August 27, 2020 | Cat vs. Dog
+
+ 1. In this rhyme interface predicted if a image is containing Dogs or Cats using Resnet50.
+
+ Link to Progress - []()
 
 # Day 65 : August 28, 2020 | Transfer Learning
 
- 1.
+ 1. Predicting the signs on the basis of Day __, with Transfer Learning.
 
- Link to Progress -
+ Link to Progress - []()
 
 # Day 66 : August 29, 2020 | Using Custom Estimator in Time-Series
 
- 1.
+ 1.In this Coursera project,
+ 2.
 
  Link to Progress -
 
@@ -565,57 +591,80 @@ It's the daily log to keep track on my progress.
 
  Link to Progress -
 
-# Day 90 : September 22, 2020 |
+# Day 90 : September 22, 2020 | Trigger Word Detection
 
+ 1. Trigger Word Datection - it's the final course assignment of deeplearning.ai; it's the single best course to learn ML in depth.
+ 2. Tried to implement this on my local machine but failed.
 
   Link to Progress -
 
-# Day 91 : September 23, 2020 |
+# Day 91 : September 23, 2020 | Sentiment Analysis
 
+ 1. Twitter Sentiment Analysis in Kaggle, do check out my kernel & drop a comment as it's my first try with NLP.
+ 2.
 
  Link to Progress -
 
-# Day 92 : September 24, 2020 |
+# Day 92 : September 24, 2020 | Language Classification
 
+ 1. In this rhyme project network, classified language with the help of NLP.
+ 2.
 
   Link to Progress -
 
-# Day 93 : September  25, 2020 |
+# Day 93 : September  25, 2020 | FIFA 2020
 
+ 1. Explored the FIFA 2020 Dataset available on the project repo to practice some EDA on it.
+ 2.
 
  Link to Progress -
 
-# Day 94 : September 26, 2020 |
+# Day 94 : September 26, 2020 | Customer Market Segmentation
 
+ 1. Leant the use of Unsupervised Learning in this coursera project network.
+ 2.
 
-     Link to Progress -
+ Link to Progress -
 
-# Day 95 : September 27, 2020 |
+# Day 95 : September 27, 2020 | Data Science Track
 
+ 1. Started the Data Science Track on the GCP using qwiklabs.
+ 2. Completed this on purpose of getting the swags of 30 Days of Google Cloud Challenge on October.
 
-      Link to Progress -
+ Link to Progress -
 
-# Day 96 : September 28, 2020 |
+# Day 96 : September 28, 2020 | Prediction on Chest X-Rays
 
+ 1. Predicting on Chest X-Ray Dataset to perform the
+ 2.
 
-       Link to Progress -
+ Link to Progress -
 
-# Day 97 : September 29, 2020 |
+# Day 97 : September 29, 2020 | Deepfakes
 
+ 1. Generating deepfakes with keras.
+ 2.
 
-        Link to Progress -
+ Link to Progress -
 
-# Day 98 : September 30, 2020 |
+# Day 98 : September 30, 2020 | K-Means Clustering
 
+ 1.
 
-         Link to Progress -
+ Link to Progress -
 
-# Day 99 : October 1, 2020 |
+# Day 99 : October 1, 2020 | Facial Expression Classification
 
+ 1. Performing facial expression classification with Resnet50 in Coursera Project Network.
+ 2.
 
-          Link to Progress -
+ Link to Progress -
 
-# Day 100 : October 2, 2020 |
+# Day 100 : October 2, 2020 | Debiasing
 
+ 1. Finally it's done, it's a long long & long journey to me as nobody is guiding me here, found some repos but that's doesn't attracted me.
+ 2. Learned a lot in this journey, skipped alot which I will update from now on for sure.
 
-  Link to Progress -
+ Link to Progress -
+
+## Do drop a star if it help you or inspire you any bit. Thanks for visiting.
