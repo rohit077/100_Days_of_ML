@@ -301,41 +301,40 @@ It's the daily log to keep track on my progress.
 
  Link to Progress - [Classification of MNIST Dreams with Convolutional Neural Networks](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb).
 
-# Day 44 : August 7, 2020 |
+# Day 44 : August 7, 2020 | Qwicklab
 
+ 1. Continued with unfinished qwicklabs, then explored different GitHub repos.
 
+ Link to Progress - [Intro to ML](https://www.qwiklabs.com/public_profiles/13780136-a403-4d9a-8762-41935e83695f).
 
- Link to Progress - []()
+# Day 45 : August 8, 2020 | Two layer Neural Network for Classification
 
-# Day 45 : August 8, 2020 |
+ 1. Implemented a two layer neural network for 
 
+ Link to Progress - [Implementation of neural network from scratch](https://www.educba.com/implementation-of-neural-networks/).
 
+# Day 46 : August 9, 2020 | Appen Platform
 
- Link to Progress - []()
+ 1. Appen is a platform that provides or improves data used for the development of machine learning and artificial intelligence. Basically, it's a paid data annotation platform.
 
-# Day 46 : August 9, 2020 |
+ Link to Progress - [Appen](https://appen.com/).
 
+# Day 47 : August 10, 2020 | Kaggle Course Completion
 
+ 1. Completed kaggle's Intro to ML course. Kaggle courses are great for fundamentals as well as state of the art topics.
 
+ Link to Progress - [kaggle learn](https://www.kaggle.com/learn/overview).
 
- Link to Progress - []()
+# Day 48 : August 11, 2020 | 'HE' Initialization
 
-# Day 47 : August 10, 2020 |
+ 1. Initialized 'HE' for better intuition.
+ 2. Follow this [blog](https://datascience.stackexchange.com/questions/13061/when-to-use-he-or-glorot-normal-initialization-over-uniform-init-and-what-are) to learn more.
 
+ Link to Progress - [Qwiklab](https://www.qwiklabs.com/public_profiles/13780136-a403-4d9a-8762-41935e83695f).
 
+# Day 49 : August 12, 2020 | First Neural Net with Tensorflow
 
- Link to Progress - []()
-
-# Day 48 : August 11, 2020 |
-
-
-
- Link to Progress - []()
-
-# Day 49 : August 12, 2020 |
-
-
-
+ 1. 
 
  Link to Progress - []()
 
