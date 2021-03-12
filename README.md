@@ -334,21 +334,22 @@ It's the daily log to keep track on my progress.
 
 # Day 49 : August 12, 2020 | First Neural Net with Tensorflow
 
- 1. 
+ 1. Build Neural Network from Scratch in TensorFlow in Coursera Project Network.
+ 2. Applied the neural network model to solve a multi-class classification problem.
+
+ Link to Progress - [Neural Network from Scratch in TensorFlow](https://www.coursera.org/projects/neural-network-tensorflow).
+
+# Day 50 : August 13, 2020 | Generating Music with LSTM
+
+ 1. Working on my Second Project - Getting Hans Zimmer music with LSTM.
 
  Link to Progress - []()
 
-# Day 50 : August 13, 2020 |
+# Day 51 : August 14, 2020 | Implementing Dropout
 
+ 1. Back to deeplearning.ai coursework. working on the assignment.
 
-
- Link to Progress - []()
-
-# Day 51 : August 14, 2020 |
-
-
-
- Link to Progress - []()
+ Link to Progress - [deeplearning-ai](https://www.coursera.org/deeplearning-ai)
 
 # Day 52 : August 15, 2020 |
 
