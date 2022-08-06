@@ -21,4 +21,4 @@ wincertstore==0.2
 matplotlib>=1.4.3
 pandas>=0.19
 gunicorn==19.9.0
-streamlit==0.63.1
+streamlit==1.11.1
