@@ -20,5 +20,5 @@ Werkzeug==1.0.1
 wincertstore==0.2
 matplotlib>=1.4.3
 pandas>=0.19
-gunicorn==19.9.0
+gunicorn==23.0.0
 streamlit==0.63.1
